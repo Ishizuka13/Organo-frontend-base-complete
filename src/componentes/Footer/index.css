@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    background-color: #6278F7;
+    justify-content: space-around;
+    align-items: center;
+    height: 128px;
+}
+
+.apps {
+    display: flex;
+    justify-content: space-around;
+    width: 256px;
+}
+
+.apps img {
+    max-width: 32px;
+}
+
+.logo {
+    height: 64px;
+}
+
+.logo img {
+    max-height: 100%;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}

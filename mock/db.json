@@ -1,0 +1,49 @@
+{
+  "collaborator": [
+    {
+      "id": "9d47eb8d-641f-4f63-a302-062942768745",
+      "favorito": false,
+      "nome": "Gay",
+      "cargo": "Secretraio",
+      "img": "https://github.com/wdasd",
+      "time": "Novotime"
+    }
+  ],
+  "teams": [
+    {
+      "id": "1",
+      "nome": "Programação",
+      "corPrimaria": "#57C278"
+    },
+    {
+      "id": "2",
+      "nome": "Couch",
+      "corPrimaria": "#82CFFA"
+    },
+    {
+      "id": "3",
+      "nome": "Analistas de Sistemas",
+      "corPrimaria": "#E06869"
+    },
+    {
+      "id": "4",
+      "nome": "Designers",
+      "corPrimaria": "#DB6EBF"
+    },
+    {
+      "id": "5",
+      "nome": "Chefe",
+      "corPrimaria": "#FFBA05"
+    },
+    {
+      "id": "6",
+      "nome": "Gerente",
+      "corPrimaria": "#FF8A29"
+    },
+    {
+      "id": "fa4096cd-47f5-4789-9a59-a1e85db3433e",
+      "nome": "Data Science",
+      "corPrimaria": "#7e0101"
+    }
+  ]
+}
